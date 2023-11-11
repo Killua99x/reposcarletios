@@ -1,0 +1,16 @@
+{
+  "META": {
+    "repoName": "Delta",
+    "repoIcon": "https://usescarlet.com/favicon.png"
+  },
+  "Delta": [
+    {
+      "name": "Delta app",
+      "version": "1.4",
+      "down": "https://github.com/rileytestut/Delta/releases/download/v1.4/Delta_1_4.ipa",
+      "category": "Delta",
+      "bundleID": "com.rileytestut.delta",
+      "appstore": "com.rileytestut.delta"
+    }
+  ]
+}
