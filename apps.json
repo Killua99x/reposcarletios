@@ -1853,11 +1853,11 @@
         },
         {
             "name": "Delta",
-            "bundleIdentifier": "com.rileytestut.Delta.Beta",
-            "version": "1.4rc",
+            "bundleIdentifier": "com.rileytestut.Delta",
+            "version": "1.4",
             "versionDate": "2023-09-23",
             "size": 46299284,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/Delta-1.4rc.ipa",
+            "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.4/Delta_1_4.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png"
