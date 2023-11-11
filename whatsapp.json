@@ -1,0 +1,16 @@
+{
+  "META": {
+    "repoName": "Whatsapp",
+    "repoIcon": "https://usescarlet.com/favicon.png"
+  },
+  "App": [
+    {
+      "name": "Whatsapp clone app",
+      "version": "23",
+      "down": "https://github.com/Killua99x/reposcarletios/blob/main/com.fouadraheb.watusi_v23.23.79_watusi3_1.2.10.ipa",
+      "category": "Whatsapp",
+      "bundleID": "com.fouadraheb.watusi",
+      "appstore": "com.fouadraheb.watusi"
+    }
+  ]
+}
