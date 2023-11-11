@@ -3,7 +3,7 @@
     "repoName": "Youtube Repo",
     "repoIcon": "https://usescarlet.com/favicon.png"
   },
-  "Apps": [
+  "Youtube": [
     {
       "name": "Youtube no ads",
       "version": "18.29.1",
